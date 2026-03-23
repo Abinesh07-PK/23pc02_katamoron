@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy<2.0.0
+ultralytics
+insightface
+onnxruntime
+fastapi
+uvicorn
+python-multipart
